@@ -5,7 +5,9 @@
 **Analyste :** Département d'Analyse Économique  
 **Version :** 1.0
 
----
+EL FAGROUCH DOUAE
+![mon image](https://github.com/user-attachments/assets/d22cc40f-60ea-4885-8c66-06ac98b38885)
+
 
 ## 1. Introduction et Contexte
 
