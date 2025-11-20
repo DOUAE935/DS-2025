@@ -112,3 +112,5 @@ Ce travail constitue une base solide pour aller plus loin, notamment pour :
 ✔ construire un modèle prédictif (régression logistique, SVM, arbre de décision)
 ✔ évaluer la précision du modèle
 ✔ générer un rapport scientifique complet
+<img width="531" height="396" alt="image" src="https://github.com/user-attachments/assets/a3642b1b-f12b-4c8c-b55a-2ef7de537492" />
+
