@@ -115,3 +115,4 @@ Ce travail constitue une base solide pour aller plus loin, notamment pour :
 <img width="531" height="396" alt="image" src="https://github.com/user-attachments/assets/a3642b1b-f12b-4c8c-b55a-2ef7de537492" />
 
 <img width="943" height="528" alt="image" src="https://github.com/user-attachments/assets/947f4674-deb2-4e90-9241-2902a2e3b0e4" />
+<img width="542" height="393" alt="image" src="https://github.com/user-attachments/assets/1f105950-630f-4837-b8e2-f80e75f4a39d" />
